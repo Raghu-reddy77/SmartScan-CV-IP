@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment
+.env
+
+# Generated files
+uploads/*
+output/*
+
+# Keep folders
+!uploads/.gitkeep
+!output/.gitkeep
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
